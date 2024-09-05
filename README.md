@@ -1,2 +1,7 @@
-# CF-PRNet
-1st Place Solution for CVPPA@ECCV'2024: Shape Completion and Reconstruction of Sweet Peppers Challenge
+# CF-PRNet: Coarse-to-Fine Prototype Refining Network for Point Cloud Completion and Reconstruction
+
+First Place solution for ECCV'24 CVPPA challenge. 
+
+https://codalab.lisn.upsaclay.fr/competitions/18987#results
+
+More info will be released soon...
